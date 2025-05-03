@@ -1,6 +1,5 @@
 # File Reviewer
 
-![File Reviewer Banner](images/banner.png)
 
 ## Supercharge Your Code Quality with AI
 
@@ -86,9 +85,6 @@ You can customize the extension through VS Code settings:
 
 We welcome contributions! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This extension is released under the [MIT License](LICENSE).
 
 ## ❓ Support
 
