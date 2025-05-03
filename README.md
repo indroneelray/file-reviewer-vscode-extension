@@ -92,7 +92,7 @@ This extension is released under the [MIT License](LICENSE).
 
 ## ❓ Support
 
-If you encounter any issues or have questions, please [file an issue](https://github.com/yourusername/file-reviewer/issues) on our GitHub repository.
+If you encounter any issues or have questions, please [file an issue](https://github.com/indroneelray/file-reviewer-vscode-extension) on our GitHub repository.
 
 ---
 
